@@ -63,4 +63,8 @@ and provenance manifests are not included; this package cannot reproduce the
 published checkpoint or evaluation paths on its own.
 
 No data, weights, evaluation results, baseline implementations or manuscript files
-are distributed. A repository license has not been assigned.
+are distributed.
+
+## License
+
+This project is released under the BSD 3-Clause License. See `LICENSE` for details.
